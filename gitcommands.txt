@@ -56,3 +56,11 @@ Upstream : git@github.intuit.com:SBG-Plugins/qbdt-payroll-ews-ui.git
 Origin:-       git@github.intuit.com:rgupta25/qbdt-payroll-ews-ui.git
 
 
+Best Tools 
+Win merge.
+Tortoise Git.
+Fiddler 
+
+
+
+
